@@ -1126,22 +1126,9 @@ iframe {
     .logo img {
         width: 100px;
         height: auto;
-        
+        margin-right: -15px;
     }
 }
-
-/* @media (min-width: 769px) and (max-width: 1200px) {
-    .logo img {
-        width: 50px;
-    }
-} */
-
-/* @media (min-width: 1201px) {
-    .logo img {
-        width: 50px;
-    } */
-/* } */
-
 
 @media (max-width: 500px) {
     .head {
