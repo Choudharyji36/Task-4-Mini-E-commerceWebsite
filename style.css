@@ -1287,12 +1287,15 @@ iframe {
         display: block;
   }
     .home_txt {
-        position: absolute;
+        position: fixed;
         top: 67%;
         left: 20px;
         transform: translateY(-50%);
         max-width: 600px;
         font-size: 18px;
+        white-space: nowrap;          
+        overflow: hidden;           
+        text-overflow: ellipsis;
     }
     .home_txt button {
         padding: 12px 24px;
