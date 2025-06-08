@@ -1293,8 +1293,7 @@ iframe {
         transform: translateY(-50%);
         max-width: 600px;
         font-size: 18px;
-        white-space: nowrap;          
-        overflow: hidden;           
+        white-space: nowrap;                    
         text-overflow: ellipsis;
     }
     .home_txt button {
